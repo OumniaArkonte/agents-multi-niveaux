@@ -32,7 +32,7 @@ def main():
         reasoning=True,
     )
 
-    # Transactions prédéfinies (plus besoin de saisir au clavier)
+    # Transactions prédéfinies 
     transactions = [
         {"transaction": "achat", "montant": 1000, "type": "dépense"},
         {"transaction": "vente", "montant": 1500, "type": "revenu"}
